@@ -17,9 +17,6 @@
 
 ## Objetivo del trabajo
 - Implementar un sistema de recomendacion de peliculas que permita al usuario encontrar filmes de acuerdo a sus intereses y nuevos a explorar usando redes neuronales.
-## Nombre de los alumnos participantes
-- André Dario Pilco Chiuyare
-- Luis Felipe Poma Astete
   
 ## Breve descripción del dataset
 Los datasets no se pudieron subir al repositorio debido al tamaño limite excedido, por lo cual al ejecutar el notebook se descargara desde Kaggle automaticamente.
